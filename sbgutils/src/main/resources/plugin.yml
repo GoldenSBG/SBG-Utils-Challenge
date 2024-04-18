@@ -1,0 +1,4 @@
+name: sbgutils
+version: '${project.version}'
+main: ch.goldensbg.sbgutils.Main
+api-version: '1.20'
